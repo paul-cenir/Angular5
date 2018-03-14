@@ -1,0 +1,11 @@
+@import './variables';
+@import './mixins';
+
+.width-100 {
+    width: 100%;
+}
+.col-centered {
+    display: block !important;
+    float: none !important;
+    margin: auto;
+}
